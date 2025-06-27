@@ -1,6 +1,6 @@
-# 💻 ZCoder – A Collaborative Coding Platform
+# 💻 Zcoder – A Collaborative Coding Platform
 
-ZCoder is a web-based coding platform built to help developers practice coding, collaborate in real time, and build projects. It supports live code execution, problem bookmarking, live chat room, and user authentication.
+Zcoder is a web-based coding platform built to help developers practice coding, collaborate in real time, and build projects. It supports live code execution, problem bookmarking, live chat room, and user authentication.
 
 ---
 
@@ -38,4 +38,4 @@ ZCoder is a web-based coding platform built to help developers practice coding, 
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/aryan860/zcoder.git
+   git clone https://github.com/AdityaVerma110405/Zcoder.git
